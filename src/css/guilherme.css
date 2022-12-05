@@ -1,0 +1,28 @@
+*{
+    margin: 15px;
+  }
+  
+  body{
+    font-family: 'Courier Prime', monospace;
+  }
+  
+  div{
+    padding: 0;
+    margin-left: 150px;
+    margin-right: 150px;
+    display: column;
+    justify-content: center;
+  }
+  
+  img{
+    border-radius: 190px;
+  }
+  
+  a{
+    text-decoration: none;
+    color: gray;
+  }
+  
+  li{
+    list-style: none;
+  }
